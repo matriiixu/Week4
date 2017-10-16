@@ -4,9 +4,9 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "mob.app.dev.lifecycle"
-        version   = "1.0.0">
+        version   = "1.0.1">
 
-    <name>Week 4 App</name>
+    <name>Week 4</name>
 
     <description>
         A simple application that counts the occurances of lifecycle events.
@@ -22,10 +22,10 @@
     
     
     
-    <icon src="res/icon/ios/logo-57.png"            platform="ios"        width="57" height="57" />
-    <icon src="res/icon/ios/logo-72.png"            platform="ios"        width="72" height="72" />
-    <icon src="res/icon/ios/logo-57-2x.png"         platform="ios"        width="114" height="114" />
-    <icon src="res/icon/ios/logo-72-2x.png"         platform="ios"        width="144" height="144" />
+    <icon src="res/icon/ios/logo-57.png"            platform="ios"        width="57" height="57"     density="mdpi"/>
+    <icon src="res/icon/ios/logo-72.png"            platform="ios"        width="72" height="72"     density="mdpi"/>
+    <icon src="res/icon/ios/logo-57-2x.png"         platform="ios"        width="114" height="114"   density="mdpi"/>
+    <icon src="res/icon/ios/logo-72-2x.png"         platform="ios"        width="144" height="144"   density="mdpi"/>
     
 	
 	<access origin="*"/>
