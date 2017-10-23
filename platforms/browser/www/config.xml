@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="mob.app.dev.lifecycle" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Uni App</name>
+<widget id="mob.app.dev.lifecycle" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Week 4</name>
     <description>
-        A sample application that counts the occurances of lifecycle events.
+        A simple application that counts the occurances of lifecycle events.
     </description>
     <author email="c.bowers@worc.ac.uk" href="worcester.ac.uk">
         WBS Computing
     </author>
-    <icon gap:platform="ios" height="57" src="res/icon/ios/logo-57.png" width="57" />
-    <icon gap:platform="ios" height="72" src="res/icon/ios/logo-72.png" width="72" />
-    <icon gap:platform="ios" height="114" src="res/icon/ios/logo-57-2x.png" width="114" />
-    <icon gap:platform="ios" height="144" src="res/icon/ios/logo-72-2x.png" width="144" />
+    <icon density="mdpi" height="57" platform="ios" src="res/icon/ios/logo-57.png" width="57" />
+    <icon density="mdpi" height="72" platform="ios" src="res/icon/ios/logo-72.png" width="72" />
+    <icon density="mdpi" height="114" platform="ios" src="res/icon/ios/logo-57-2x.png" width="114" />
+    <icon density="mdpi" height="144" platform="ios" src="res/icon/ios/logo-72-2x.png" width="144" />
     <access origin="*" />
     <preference name="phonegap-version" value="cli-7.0.1" />
     <preference name="permissions" value="none" />
